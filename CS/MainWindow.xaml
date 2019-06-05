@@ -4,7 +4,7 @@
         xmlns:dxc="http://schemas.devexpress.com/winfx/2008/xaml/core"
         xmlns:dxsch="http://schemas.devexpress.com/winfx/2008/xaml/scheduler"
         xmlns:dxscht="http://schemas.devexpress.com/winfx/2008/xaml/scheduler/themekeys"
-        xmlns:dxschd="clr-namespace:DevExpress.Xpf.Scheduler.Drawing;assembly=DevExpress.Xpf.Scheduler.v13.1"
+        xmlns:dxschd="clr-namespace:DevExpress.Xpf.Scheduler.Drawing;assembly=DevExpress.Xpf.Scheduler.v11.2"
         xmlns:local="clr-namespace:SchedulerThemeIndependentStylesWpf"
         Title="MainWindow" Height="350" Width="525" dxc:ThemeManager.ThemeName="LightGray">
 
